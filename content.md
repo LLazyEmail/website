@@ -32,4 +32,6 @@ Designed for you
 ----
 
 
+## [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
+
 
