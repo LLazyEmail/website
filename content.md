@@ -28,21 +28,21 @@ Designed for you
 - [For small businesses](https://emailoctopus.com/customers/small-businesses)
 
 
-<!-- 
+
 Ecommerce - optimize your sales with advanced tools for sending emails.
 Startups - optimize your flows, subscriptions and transactional emails.
 Mobile apps: expand your notifications with old-fashion email marketing.
 Enterprise: Email Infrastructure for scale.
--->
 
 
 
-<!-- 
+
+
 https://github.com/LLazyEmail/markdown-to-email
 https://github.com/LLazyEmail/markdown-regex
 https://github.com/LLazyEmail/default-email-template
--->
-<!-- 
+
+
 Helping businesses to organize email marketing in correct way
 Helping businesses to Organize Email Marketing to Achieve Higher ROI
 Stop letting email control you
@@ -91,10 +91,10 @@ Automate your entire customer journey for faster results
 Marketing automation is technology that manages marketing processes and multifunctional campaigns, across multiple channels, automatically
 https://www.salesforce.com/products/marketing-cloud/what-is-marketing-automation/#:~:text=The%20definition%20of%20marketing%20automation,web%2C%20social%2C%20and%20text.
 How Marketing Automation Generates Quality Leads
- -->
+ 
 
 
-<!--  
+ 
 For affiliates
 For authors
 For charities
@@ -104,7 +104,7 @@ For the music industry
 For newsletters
 For real estate
 For schools
-For small businesses -->
+For small businesses 
 
 ----
 
